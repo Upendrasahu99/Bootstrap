@@ -1,0 +1,24 @@
+.container{
+    border: 3px solid black;
+}
+body{
+    background-color: rgb(231, 220, 220);
+}
+#header{
+    background-color: rgb(219, 190, 135);
+}
+#menu{
+    background-color: rgb(222, 235, 222);
+}
+a{
+    text-decoration: none;
+}
+#content{
+    background-color: white;
+}
+#sidebar{
+    background-color: rgb(205, 205, 231);
+}
+#footer{
+    background-color: rgb(245, 214, 245);
+}
