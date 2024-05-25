@@ -208,3 +208,30 @@ p{
 }
 
 
+/*
+==============================
+    Section-1 Top Banner
+==============================
+*/
+
+.top-banner{
+    width: 100%;
+    background: url('../image/bg/bg-1.jpg') no-repeat center;
+    background-size: cover;
+    padding: 16.875rem 0 9.375rem;
+}
+
+
+/*
+======================================
+Counter Design
+===================================== 
+ */
+ .counter-section{
+    background-color: var(--primary-color);
+    padding: 2.5rem 0;
+ }
+ .counter-section p{
+    color: var(--white-color);
+    text-transform: uppercase;
+ }
