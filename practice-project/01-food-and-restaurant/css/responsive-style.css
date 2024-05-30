@@ -1,5 +1,9 @@
 @media (max-width : 1024px){
+<<<<<<< HEAD
   /* about section*/
+=======
+  /* about */
+>>>>>>> 1e5def6e7e699c8f49706c538086b7ae6e448e77
 
 }
 
@@ -41,10 +45,13 @@
   .top-banner{
     padding: 10.875rem 0 9.375rem;
   }
+<<<<<<< HEAD
 
   /* story section */
   .story-section{
     height: auto;
     padding: 3rem 0;
   }
+=======
+>>>>>>> 1e5def6e7e699c8f49706c538086b7ae6e448e77
 }
