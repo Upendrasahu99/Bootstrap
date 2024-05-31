@@ -29,7 +29,12 @@
   .top-banner{
     padding: 9.375rem 0 9.375rem;
   }
+  /* carousel design */
+  .testimonial-section .carousel-item .carousel-caption p{
+    padding: 0;
+  }
 }
+
 
 @media(max-width: 767px){
   /* custom css */
@@ -45,13 +50,25 @@
   .top-banner{
     padding: 10.875rem 0 9.375rem;
   }
-<<<<<<< HEAD
 
-  /* story section */
-  .story-section{
-    height: auto;
-    padding: 3rem 0;
+  /* carousel design */
+  .testimonial-section .carousel-item{
+    padding: 11rem 3.125rem;
   }
-=======
->>>>>>> 1e5def6e7e699c8f49706c538086b7ae6e448e77
+  /* newletter */
+  .newsletter{
+    width: 75%;
+  }
+  .newsletter .main-btn{
+    width: 100%;
+    margin-top: 1rem;
+  }
+}
+
+
+@media(max-width:330px){
+  /* carousel design */
+  .testimonial-section .carousel-item{
+    padding: 13rem 3.125rem;
+  }
 }
