@@ -397,10 +397,33 @@ FAQ section Design
     border:0.1875rem solid var(--text-gray);
     color:var(--black-color);
     font-weight: 700;
-  }
+}
 .newsletter .form-control:hover,
 .newsletter .form-control:focus{
-outline:none;
-box-shadow: none;
-border-color:var(--primary-color);
+    outline:none;
+    box-shadow: none;
+    border-color:var(--primary-color);
+}
+
+/* 
+======================================
+footer section Design
+======================================
+*/
+
+.footer{
+    background-color: var(--primary-color);
+}
+.footer .footer-link{
+    font-size: 1rem;
+    color: var(--white-color);
+    padding: 0 1.875rem;
+}
+.footer .footer-link:hover{
+    color: var(--white-color) !important;
+}
+.footer a i{
+    font-size: 1.5rem;
+    color: var(--white-color);
+    padding: 0 1rem;
 }

@@ -63,6 +63,11 @@
     width: 100%;
     margin-top: 1rem;
   }
+  /* footer link */
+  .footer .footer-link,
+  .footer a i{
+    padding: 0 0.7rem;
+  }
 }
 
 
